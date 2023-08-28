@@ -1,5 +1,5 @@
 # Sudoku_game
-Sudoku game - Work in progress!
+Work in progress!
 
 *Personal Summer Project, started in August 2023*
 
