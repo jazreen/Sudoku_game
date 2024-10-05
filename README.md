@@ -14,7 +14,7 @@ Update as of January 2024:
 - Designed and implemented solver with focus on clarity, efficiency and modularity to ensure maintainability
 - Methodically conducted tests (including unit tests) to identify, resolve and document errors
 
-Project revisited in Oct'24: 
+Project revisited in Oct 2024: 
 - Code structure changed to incorporate OOP features learnt in class (CPEN 333 and added some features to let users choose whether to solve a sample matrix or input their own problem
 
 
